@@ -1,4 +1,4 @@
-# focused breathing
+# Relaxation app
 ## A CSS animation to help with meditation and focused breathing exercises
 
 1. Breath in through the nose for 2 seconds
